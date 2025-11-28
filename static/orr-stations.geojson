@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "colour": "purple",
+                "name": "KR Pura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67758845747,
+                    12.9999267339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "colour": "yellow",
+                "name": "Silk Board"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62055395961,
+                    12.91656414694
+                ]
+            }
+        }
+    ]
+}
