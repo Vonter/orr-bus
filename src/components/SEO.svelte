@@ -1,8 +1,8 @@
 <!-- SEO.svelte -->
 <script lang="ts">
-	export let title = 'ORR Bus App';
+	export let title = 'ORR Bus App: Plan your ORR Bus journey and access the Metro';
 	export let description =
-		'Find your nearest ORR Bus stop, plan your ORR Bus journey and easily get to the Metro.';
+		'Find your nearest ORR Bus stop, track ORR buses live and easily access Namma Metro at the Yellow Line or Purple Line.';
 	export let keywords =
 		'orr,bus,bmtc,public transport,bangalore,bengaluru,blr,ecoworld,ecospace,etv,bagmane,prestige,cessna,rmz';
 	export let author = 'Vivek Matthew';

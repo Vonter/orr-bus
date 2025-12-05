@@ -1021,6 +1021,8 @@
 	}
 </script>
 
+<h1 hidden>ORR Bus App: Plan your ORR Bus journey and access the Metro</h1>
+
 <div class="min-h-screen bg-gray-50">
 	<div class="flex h-screen flex-col md:flex-row">
 		<!-- Map Container -->
